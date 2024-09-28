@@ -22,7 +22,6 @@ jobs:
 
   submit_results:
     needs: deploy
-    if: true
     runs-on: ubuntu-latest
     steps:
       - uses: azure/login@v1
