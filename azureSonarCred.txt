@@ -1,0 +1,49 @@
+# Create a logical server
+az sql server create `
+   --name pragya-sonar `
+   --resource-group devsecops-lab `
+   --location australiaeast `
+   --admin-user sonar `
+   --admin-password pr@gya-S0nar2024
+
+
+# Configure a firewall rule to allow Azure Services
+az sql server firewall-rule create `
+   --resource-group devsecops-lab `
+   --server pragya-sonar `
+   -n AzureServices `
+   --start-ip-address 0.0.0.0 `
+   --end-ip-address 0.0.0.0 
+
+
+# Create a database in the server
+az sql db create `
+   --resource-group devsecops-lab `
+   --server pragya-sonar `
+   --name sonarqubeDb `
+   --service-objective S0 `
+   --collation SQL_Latin1_General_CP1_CS_AS
+
+
+# Create a container instance using the offical SonarQube image
+az containerapp create `
+    --cpu 2 `
+    --memory 4 `
+    --environment "devops-app-env"`
+    --resource-group "devsecops-lab" `
+    --name "sonarqube-app" `
+    --image "sonarqube:9.9.4-community" `
+    --target-port 9000 `
+    --ingress external `
+    --min-replicas 1 `
+    --max-replicas 1 `
+    --env-vars `
+   "SONAR_ES_BOOTSTRAP_CHECKS_DISABLE=true" `
+   "SONAR_JDBC_USERNAME=sonar" `
+   "SONAR_JDBC_PASSWORD=pr@gya-S0nar2024" `
+   "SONAR_JDBC_URL=jdbc:sqlserver://pragya-sonar.database.windows.net:1433;database=sonarqubeDb;user=sonar@pragya-sonar;password=pr@gya-S0nar2024;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30"
+
+
+   token for sonar
+
+   sqp_7bc4f82cd1f830933914df2af53e6a1225d3a6d5
