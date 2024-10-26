@@ -235,9 +235,9 @@ jobs:
           path: ${{github.workspace}}
       - name: Upload reports
         env:
-        DOCKERHUB_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
-        AZURE_ACCESS_TOKEN: ${{ steps.token-gen.outputs.azureAccessToken }}
-        IMAGE: ${{ secrets.DOCKERHUB_USERNAME }}/devops-labs
+          DOCKERHUB_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
+          AZURE_ACCESS_TOKEN: ${{ steps.token-gen.outputs.azureAccessToken }}
+          IMAGE: ${{ secrets.DOCKERHUB_USERNAME }}/devops-labs
         run: |
           WEEK1_CONTAINER=$(curl -X POST -H "Authorization: Bearer $AZURE_ACCESS_TOKEN" -d "$DOCKERHUB_USERNAME/devops-labs" https://devsecops-ver.azurewebsites.net/api/week1-container)
           echo "Week1 container upload: $WEEK1_CONTAINER"
