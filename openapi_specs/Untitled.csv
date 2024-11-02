@@ -1,0 +1,1001 @@
+ID,Req. Timestamp,Resp. Timestamp,Method,URL,Code,Reason,RTT,Size Resp. Header,Size Resp. Body
+4145,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,22,156,69
+4146,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,50,146,92
+4147,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,25,156,47
+4148,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,28,146,74
+4149,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4150,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,21,156,69
+4151,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,26,146,74
+4152,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,117,156,47
+4153,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,119,156,47
+4154,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,116,156,69
+4155,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,99,146,74
+4156,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,134,146,92
+4157,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4158,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,24,146,74
+4159,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4160,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,74
+4161,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,50,146,92
+4162,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4163,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,27,146,74
+4164,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,31,156,47
+4165,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,55,146,92
+4166,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,36,146,74
+4167,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4168,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4169,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,24,146,74
+4170,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4171,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,57,146,92
+4172,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,25,146,74
+4173,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,25,156,47
+4174,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,74
+4175,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,23,156,47
+4176,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,56,146,92
+4177,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:46 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,41,146,74
+4178,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,32,156,47
+4179,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,26,156,47
+4180,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,56,146,92
+4181,Sun Oct 13 12:32:46 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,59,146,74
+4182,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,29,156,47
+4183,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,25,156,47
+4184,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,53,146,92
+4185,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,45,146,96
+4186,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,23,156,47
+4187,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,26,146,96
+4188,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4189,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,22,146,96
+4190,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,55,146,92
+4191,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4192,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,22,146,96
+4193,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4195,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,110,146,96
+4196,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,129,146,92
+4194,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,98,156,47
+4197,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4198,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,27,146,96
+4199,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,96
+4201,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,27,146,96
+4202,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,79,146,92
+4200,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,51,156,47
+4203,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,26,156,47
+4204,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,28,146,96
+4205,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,25,156,47
+4206,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,26,146,96
+4207,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,55,146,92
+4208,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4209,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,32,146,96
+4210,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4211,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,55,146,92
+4212,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,27,146,96
+4213,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,20,156,47
+4214,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,27,146,96
+4215,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,29,156,47
+4216,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,53,146,92
+4217,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,24,146,96
+4218,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,25,156,47
+4219,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,31,146,96
+4220,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,23,156,47
+4221,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,54,146,92
+4222,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,22,146,96
+4223,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,20,156,47
+4224,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,96
+4225,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,29,156,47
+4226,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,24,146,96
+4227,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,49,146,92
+4228,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4229,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4231,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,60,146,92
+4230,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,26,156,47
+4232,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,67,146,96
+4234,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,106,156,47
+4235,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,111,146,92
+4233,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,104,146,96
+4237,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,33,156,47
+4236,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,32,146,96
+4238,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,22,146,96
+4239,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,60,146,92
+4240,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,96
+4241,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,48,146,92
+4242,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,29,146,96
+4243,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,27,146,96
+4244,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,54,146,92
+4245,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:47 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,26,146,96
+4246,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,36,146,96
+4247,Sun Oct 13 12:32:47 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,51,146,92
+4248,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,24,146,96
+4249,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4250,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4251,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,32,146,96
+4252,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4253,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,24,146,96
+4254,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,19,146,69
+4255,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,96
+4256,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4257,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,21,146,96
+4258,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4259,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,26,146,96
+4260,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,23,146,69
+4261,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,22,146,96
+4262,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,24,146,69
+4263,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,96
+4264,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4265,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,100,146,69
+4266,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,26,146,69
+4267,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4268,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,23,146,69
+4269,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,39,146,69
+4270,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4271,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4272,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4273,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,27,146,69
+4274,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4275,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4276,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4277,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,24,146,69
+4278,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4279,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4280,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4281,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4282,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4283,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,109,146,69
+4284,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4285,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,19,146,69
+4286,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4287,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,30,146,69
+4288,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4289,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:48 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,24,146,69
+4290,Sun Oct 13 12:32:48 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,25,146,69
+4291,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4292,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4293,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,23,146,69
+4294,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,24,146,69
+4295,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,24,146,69
+4296,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,24,146,69
+4297,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4298,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,24,146,69
+4299,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4300,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4301,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,107,146,69
+4302,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,23,146,69
+4303,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,34,146,69
+4304,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,24,146,69
+4305,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4306,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,23,146,69
+4307,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,25,146,69
+4308,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,25,146,69
+4309,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,25,146,69
+4310,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4311,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,23,146,69
+4312,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,28,146,69
+4313,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4314,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,26,146,69
+4315,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4316,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4317,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4318,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,23,146,69
+4319,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,116,146,69
+4320,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,25,146,69
+4321,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:49 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,29,146,69
+4322,Sun Oct 13 12:32:49 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,31,146,69
+4323,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,23,146,69
+4324,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4325,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,23,146,69
+4326,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,20,147,271
+4327,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,29,156,47
+4328,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,24,156,47
+4329,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,25,156,69
+4330,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,45,146,74
+4331,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,21,156,47
+4332,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4333,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,26,162,205
+4334,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,26,156,69
+4335,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,17,162,205
+4336,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4337,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,26,146,74
+4338,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,28,156,47
+4339,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,22,156,69
+4340,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,72,146,92
+4341,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,22,153,48
+4342,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,23,156,47
+4343,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,28,146,74
+4344,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,26,156,47
+4345,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,31,146,96
+4346,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,54,146,92
+4347,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4348,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,30,146,96
+4349,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,49,146,92
+4350,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,22,146,96
+4351,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,25,146,69
+4352,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4353,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,92,146,69
+4354,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,36,146,69
+4355,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4356,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4357,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,20,147,271
+4358,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,19,162,205
+4359,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,19,162,205
+4360,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,25,153,48
+4361,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,20,147,271
+4362,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,19,162,205
+4363,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,22,162,205
+4364,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,20,153,48
+4365,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,22,156,69
+4366,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,31,156,47
+4367,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/latest/meta-data/,404,Not Found,33,144,1946
+4368,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,31,147,271
+4369,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,32,146,74
+4370,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,37,156,47
+4371,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,21,156,69
+4372,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,20,162,205
+4373,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,25,146,74
+4374,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,26,156,47
+4375,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4376,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,60,146,92
+4377,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,20,156,69
+4378,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/latest/meta-data/,404,Not Found,34,144,1946
+4379,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,19,162,205
+4380,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,19,156,47
+4381,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,22,146,74
+4382,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4383,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,23,156,69
+4384,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,19,153,48
+4385,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,21,156,47
+4386,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/latest/meta-data/,404,Not Found,33,144,1946
+4387,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,23,156,47
+4388,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,55,146,92
+4389,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,30,156,69
+4390,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,20,156,47
+4391,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,41,146,74
+4392,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,25,156,47
+4393,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/latest/meta-data/,404,Not Found,34,144,1946
+4394,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,20,156,47
+4395,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,27,156,69
+4396,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,28,146,74
+4397,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,26,156,47
+4398,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,22,156,47
+4399,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,22,156,69
+4400,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,147,146,92
+4401,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,115,146,74
+4402,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,102,156,47
+4403,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,98,156,69
+4404,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,106,156,47
+4405,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,24,156,47
+4406,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,25,146,74
+4407,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,29,156,47
+4408,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:50 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,33,156,69
+4409,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,22,156,47
+4410,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,20,156,47
+4411,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,26,156,69
+4412,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,60,146,92
+4413,Sun Oct 13 12:32:50 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,40,146,74
+4414,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,20,156,47
+4415,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4416,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,23,156,69
+4417,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,22,146,74
+4418,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,24,156,47
+4419,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4420,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,21,156,69
+4421,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,62,146,92
+4422,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,33,146,74
+4423,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,30,156,47
+4424,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,27,156,47
+4425,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,23,156,69
+4426,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4427,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,26,156,47
+4428,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,26,146,74
+4429,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,23,156,69
+4430,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4431,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,74
+4432,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,55,146,92
+4433,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,74
+4434,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,28,156,47
+4435,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,28,156,47
+4436,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,50,146,92
+4437,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,35,146,74
+4438,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,26,156,47
+4439,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,24,146,96
+4440,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4441,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,54,146,92
+4442,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,30,146,96
+4443,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4444,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,25,146,96
+4445,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4446,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,29,146,96
+4447,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,57,146,92
+4448,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,31,156,47
+4449,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,23,156,47
+4450,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,32,146,96
+4451,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4452,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,54,146,92
+4453,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,96
+4454,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4455,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,110,156,47
+4456,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,130,146,92
+4457,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,131,146,96
+4458,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4459,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,32,146,96
+4460,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4461,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,96
+4462,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,58,146,92
+4463,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4464,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,21,146,96
+4465,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,48,146,92
+4466,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,29,146,96
+4467,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,27,146,96
+4468,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,54,146,92
+4469,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,34,146,96
+4470,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4471,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,96
+4472,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4473,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4474,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4475,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,26,146,69
+4476,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4477,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4478,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,24,146,69
+4479,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4480,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4481,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4482,Sun Oct 13 12:32:51 AEDT 2024,Sun Oct 13 12:32:51 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,108,146,69
+4483,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,28,146,69
+4484,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4485,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4486,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,25,146,69
+4487,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,35,146,69
+4488,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,51,146,69
+4489,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,41,146,69
+4490,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,37,146,69
+4491,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,43,146,69
+4492,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,51,146,69
+4493,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,40,146,69
+4494,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,119,146,69
+4495,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,39,146,69
+4496,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,41,146,69
+4497,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,39,146,69
+4498,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,46,146,69
+4499,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,25,156,47
+4500,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,27,156,47
+4501,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,30,156,69
+4502,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,36,147,271
+4503,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,36,146,74
+4504,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,22,156,47
+4505,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,30,156,47
+4506,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,29,156,69
+4507,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,23,162,205
+4508,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,64,146,92
+4509,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,32,146,74
+4510,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,20,156,47
+4511,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,20,162,205
+4512,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4513,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,25,156,69
+4514,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,22,146,74
+4515,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,20,156,47
+4516,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,20,156,47
+4517,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,21,156,47
+4518,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,29,156,69
+4519,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,43,153,48
+4520,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,59,146,92
+4521,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4522,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,19,156,47
+4523,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,42,146,74
+4524,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,22,156,69
+4525,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4526,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,23,156,47
+4527,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,25,156,69
+4528,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,20,156,47
+4529,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,21,156,47
+4530,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,51,146,92
+4531,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,20,156,69
+4532,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4533,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,58,146,74
+4534,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,20,156,47
+4535,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,20,156,69
+4536,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,22,156,47
+4537,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,27,156,47
+4538,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,24,156,69
+4539,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,50,146,92
+4540,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:52 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,41,146,74
+4541,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,118,156,47
+4542,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,118,156,47
+4543,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,106,146,92
+4544,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,108,156,69
+4545,Sun Oct 13 12:32:52 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,103,146,74
+4546,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,21,156,47
+4547,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,30,146,74
+4548,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,30,156,69
+4549,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,31,156,47
+4550,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,27,156,69
+4551,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,58,146,92
+4552,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,28,156,47
+4553,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,29,146,74
+4554,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,29,146,74
+4555,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,30,156,47
+4556,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4557,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,56,146,92
+4558,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,27,146,74
+4559,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4560,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,74
+4561,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4562,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,53,146,92
+4563,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,28,146,96
+4564,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,25,156,47
+4565,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,29,146,96
+4566,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4567,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,59,146,92
+4568,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,30,146,96
+4569,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,33,156,47
+4570,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,96
+4571,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,20,156,47
+4572,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4573,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,55,146,92
+4574,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,29,146,96
+4575,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4576,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,28,146,96
+4577,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4578,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,22,146,96
+4579,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,57,146,92
+4580,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4581,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,26,146,96
+4582,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,51,146,92
+4583,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,33,146,96
+4584,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4585,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,96
+4586,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4587,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,107,146,96
+4588,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,111,146,69
+4589,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,22,146,96
+4590,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4591,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4592,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,25,146,69
+4593,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,48,146,69
+4594,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4595,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,23,146,69
+4596,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,41,146,69
+4597,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,23,146,69
+4598,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4599,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4600,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,25,146,69
+4601,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4602,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4603,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,23,146,69
+4604,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:53 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4605,Sun Oct 13 12:32:53 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,101,146,69
+4606,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4607,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4608,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4609,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,25,146,69
+4610,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4611,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login/,404,Not Found,20,162,205
+4612,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/,404,Not Found,20,162,205
+4613,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password/,404,Not Found,22,162,205
+4614,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email/,404,Not Found,23,162,205
+4615,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,DELETE,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/,404,Not Found,24,162,205
+4616,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,39,147,271
+4617,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/,200,OK,21,147,271
+4618,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register/,404,Not Found,61,162,205
+4619,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,21,162,205
+4620,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/,200,OK,21,147,271
+4621,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/,404,Not Found,19,162,205
+4622,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,20,162,205
+4623,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/createdb/,404,Not Found,21,162,205
+4624,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/bookTitle77/,404,Not Found,23,162,205
+4625,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/,404,Not Found,24,162,205
+4626,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/John.Doe/,404,Not Found,22,162,205
+4627,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/_debug/,404,Not Found,25,162,205
+4628,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,25,153,48
+4629,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/,404,Not Found,26,162,205
+4630,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/,404,Not Found,26,162,205
+4631,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/,404,Not Found,20,162,205
+4632,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4633,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,25,147,271
+4634,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,27,156,69
+4635,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,30,146,74
+4636,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,30,156,47
+4637,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,19,162,205
+4638,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4639,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,58,146,92
+4640,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,25,162,205
+4641,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,38,146,96
+4642,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4643,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,22,153,48
+4644,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,26,146,69
+4645,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,20,156,47
+4646,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,23,147,271
+4647,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,28,156,69
+4648,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,27,156,47
+4649,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,33,146,74
+4650,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,20,156,47
+4651,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,21,162,205
+4652,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,19,156,69
+4653,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,28,156,47
+4654,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,59,146,92
+4655,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,108,162,205
+4656,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,120,146,74
+4657,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,96,156,47
+4658,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,105,156,69
+4659,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,112,156,47
+4660,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,93,146,92
+4661,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,23,156,47
+4662,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,24,153,48
+4663,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,28,146,74
+4664,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,28,156,47
+4665,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,28,146,96
+4666,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,57,146,92
+4667,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,27,156,47
+4668,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,24,146,96
+4669,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,25,146,69
+4670,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,25,146,96
+4671,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,25,146,69
+4672,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,28,146,69
+4673,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,26,146,69
+4674,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4675,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4676,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4677,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,26,156,47
+4678,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,32,147,271
+4679,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,32,156,69
+4680,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,33,146,74
+4681,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,20,156,47
+4682,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,23,156,47
+4683,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,22,156,69
+4684,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,57,146,92
+4685,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,24,146,74
+4686,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,36,162,205
+4687,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4688,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,27,156,47
+4689,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,21,156,69
+4690,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,26,146,74
+4691,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,22,162,205
+4692,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,23,156,47
+4693,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,24,156,69
+4694,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,27,156,47
+4695,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,52,146,92
+4696,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,34,146,74
+4697,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,22,156,47
+4698,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:54 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,23,156,69
+4699,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,416,156,47
+4700,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,400,146,92
+4701,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,416,153,48
+4702,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,412,146,74
+4703,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,409,156,69
+4704,Sun Oct 13 12:32:54 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,411,156,47
+4705,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,27,156,47
+4706,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,20,156,47
+4707,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,22,156,69
+4708,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4709,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,58,146,92
+4710,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,47,146,74
+4711,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4712,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,74
+4713,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,25,156,47
+4714,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,49,146,92
+4715,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,96
+4716,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4717,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,26,156,47
+4718,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,49,146,92
+4719,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,23,156,47
+4720,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,57,146,96
+4721,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,353,156,47
+4722,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,371,146,92
+4723,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,359,146,96
+4724,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4725,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,28,146,69
+4726,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,27,146,96
+4728,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,28,146,96
+4727,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,29,146,69
+4730,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,26,146,69
+4729,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:55 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,25,146,96
+4731,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,430,146,96
+4732,Sun Oct 13 12:32:55 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,431,146,69
+4733,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4734,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,28,146,69
+4735,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,23,146,69
+4736,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4737,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,24,146,69
+4738,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,34,146,69
+4739,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,171,146,69
+4740,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,26,146,69
+4741,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,45,146,69
+4742,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4743,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,23,156,47
+4744,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,27,156,47
+4745,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,30,147,271
+4746,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,31,146,69
+4747,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,32,146,96
+4748,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,38,156,69
+4749,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4750,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,24,146,74
+4751,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,27,162,205
+4752,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,23,162,205
+4753,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,54,146,92
+4754,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,31,146,74
+4755,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,35,153,48
+4756,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,36,146,74
+4757,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,64,146,92
+4758,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,30,146,74
+4759,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:56 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,74
+4760,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,272,146,92
+4761,Sun Oct 13 12:32:56 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,245,146,74
+4762,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,51,146,92
+4763,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,54,146,96
+4764,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,38,146,96
+4765,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,25,146,96
+4766,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,65,146,92
+4767,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,28,146,96
+4768,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,53,146,92
+4769,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,25,146,96
+4770,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,31,146,69
+4771,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,31,146,96
+4772,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,25,146,69
+4773,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,25,146,96
+4774,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,30,146,69
+4775,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,20,146,69
+4776,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,36,146,69
+4777,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,29,146,69
+4778,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,173,146,69
+4779,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,49,146,69
+4780,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,26,146,69
+4781,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4782,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4783,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,27,146,69
+4784,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,42,146,69
+4785,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:57 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,21,146,69
+4786,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/elmah.axd,404,Not Found,18,162,205
+4787,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/trace.axd,404,Not Found,22,162,205
+4788,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,20,147,271
+4789,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/trace.axd,404,Not Found,22,162,205
+4790,Sun Oct 13 12:32:57 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/trace.axd,404,Not Found,23,153,48
+4791,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/trace.axd,404,Not Found,19,162,205
+4792,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,24,162,205
+4793,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/trace.axd,401,Unauthorized,30,156,47
+4794,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,29,162,205
+4795,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/trace.axd,404,Not Found,38,162,205
+4796,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,56,153,48
+4797,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/.htaccess,404,Not Found,23,153,48
+4798,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/.htaccess,404,Not Found,23,162,205
+4799,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,22,147,271
+4800,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/.htaccess,404,Not Found,23,162,205
+4801,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/.htaccess,404,Not Found,23,162,205
+4802,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,23,162,205
+4803,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/.htaccess,401,Unauthorized,21,156,47
+4804,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,22,162,205
+4805,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,98,153,48
+4806,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/.htaccess,404,Not Found,99,162,205
+4807,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/.env,404,Not Found,18,162,205
+4808,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/.env,404,Not Found,20,153,48
+4809,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,21,147,271
+4810,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/.env,404,Not Found,22,162,205
+4811,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,22,162,205
+4812,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/.env,404,Not Found,22,162,205
+4813,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,21,162,205
+4814,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/.env,401,Unauthorized,34,156,47
+4815,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,19,153,48
+4816,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/.env,404,Not Found,29,162,205
+4817,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/actuator/health,404,Not Found,23,162,205
+4818,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,24,156,69
+4819,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/lfm.php,404,Not Found,28,162,205
+4820,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,28,147,271
+4821,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,29,156,47
+4822,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,29,146,74
+4823,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,29,156,47
+4824,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/actuator/health,404,Not Found,20,162,205
+4825,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,23,156,69
+4826,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/.idea/WebServers.xml,404,Not Found,23,162,205
+4827,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,24,162,205
+4828,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,25,156,47
+4829,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,24,146,74
+4830,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,27,156,47
+4831,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,22,156,69
+4832,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,22,146,74
+4833,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/config/databases.yml,404,Not Found,28,162,205
+4834,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,23,162,205
+4835,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,24,156,47
+4836,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,86,146,92
+4837,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,35,156,47
+4838,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,24,156,69
+4839,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,21,146,74
+4840,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/config/database.yml,404,Not Found,24,162,205
+4841,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,20,156,47
+4842,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4843,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,32,153,48
+4844,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,21,156,69
+4845,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,20,156,47
+4846,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/.git/config,404,Not Found,20,162,205
+4847,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,23,156,47
+4848,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,23,156,69
+4849,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,54,146,92
+4850,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/.svn/entries,404,Not Found,20,162,205
+4851,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,44,146,74
+4852,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,26,156,47
+4853,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,20,156,47
+4854,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,20,156,69
+4855,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/.svn/wc.db,404,Not Found,20,162,205
+4856,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,20,156,47
+4857,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+4858,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/CVS/root,404,Not Found,19,162,205
+4859,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,26,156,69
+4860,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,21,156,47
+4861,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,53,146,92
+4862,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4863,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/server-status,404,Not Found,22,162,205
+4864,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,63,146,74
+4865,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,23,156,47
+4866,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/core,404,Not Found,19,162,205
+4867,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,26,146,74
+4868,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,22,156,47
+4869,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/sftp-config.json,404,Not Found,20,162,205
+4870,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,57,146,92
+4871,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,22,146,74
+4872,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4873,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/WS_FTP.ini,404,Not Found,23,162,205
+4874,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,27,146,96
+4875,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,23,156,47
+4876,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/ws_ftp.ini,404,Not Found,23,162,205
+4877,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/WS_FTP.INI,404,Not Found,19,162,205
+4878,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,59,146,92
+4879,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,33,146,96
+4880,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/filezilla.xml,404,Not Found,102,162,205
+4881,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,102,146,92
+4882,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,97,146,96
+4883,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,24,146,96
+4884,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/sitemanager.xml,404,Not Found,28,162,205
+4885,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/FileZilla.xml,404,Not Found,25,162,205
+4886,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,54,146,92
+4887,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/winscp.ini,404,Not Found,42,162,205
+4888,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,72,146,92
+4889,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/WinSCP.ini,404,Not Found,42,162,205
+4890,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,40,146,69
+4891,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:58 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/.DS_Store,404,Not Found,37,162,205
+4892,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,47,146,69
+4893,Sun Oct 13 12:32:58 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/.php_cs.cache,404,Not Found,55,162,205
+4894,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,28,146,69
+4895,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/DEADJOE,404,Not Found,19,162,205
+4896,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+4897,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/sites/default/private/files/backup_migrate/scheduled/test.txt,404,Not Found,21,162,205
+4898,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/app/etc/local.xml,404,Not Found,19,162,205
+4899,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/server.key,404,Not Found,20,162,205
+4900,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/privatekey.key,404,Not Found,19,162,205
+4901,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/myserver.key,404,Not Found,20,162,205
+4902,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/key.pem,404,Not Found,19,162,205
+4903,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/id_rsa,404,Not Found,20,162,205
+4904,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/id_dsa,404,Not Found,27,162,205
+4905,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/.ssh/id_rsa,404,Not Found,103,162,205
+4906,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/.ssh/id_dsa,404,Not Found,23,162,205
+4907,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/adminer.php,404,Not Found,22,162,205
+4908,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/vb_test.php,404,Not Found,18,162,205
+4909,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/CHANGELOG.txt,404,Not Found,20,162,205
+4910,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/sites/default/files/.ht.sqlite,404,Not Found,22,162,205
+4911,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/composer.json,404,Not Found,23,162,205
+4912,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/composer.lock,404,Not Found,22,162,205
+4913,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/vim_settings.xml,404,Not Found,21,162,205
+4914,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/server-info,404,Not Found,20,162,205
+4915,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/phpinfo.php,404,Not Found,21,162,205
+4916,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/info.php,404,Not Found,21,162,205
+4917,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/i.php,404,Not Found,23,162,205
+4918,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/test.php,404,Not Found,28,162,205
+4919,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/_wpeprivate/config.json,404,Not Found,22,162,205
+4920,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/_framework/blazor.boot.json,404,Not Found,21,162,205
+4921,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/.hg,404,Not Found,28,162,205
+4922,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/.bzr,404,Not Found,19,162,205
+4923,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/._darcs,404,Not Found,21,162,205
+4924,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/BitKeeper,404,Not Found,94,162,205
+4925,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,23,147,271
+4926,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,22,162,205
+4927,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,32,162,205
+4928,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,24,153,48
+4929,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:32:59 AEDT 2024,DELETE,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,401,Unauthorized,21,156,47
+4930,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,27,156,47
+4931,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,31,147,271
+4932,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,32,146,96
+4933,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,32,156,47
+4934,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,32,156,69
+4936,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,32,146,69
+4938,Sun Oct 13 12:32:59 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,DELETE,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,401,Unauthorized,19,156,47
+4939,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/,200,OK,19,147,271
+4940,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,25,162,205
+4941,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,26,156,47
+4942,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,34,156,47
+4943,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,28,147,271
+4944,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,28,156,69
+4945,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,DELETE,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,401,Unauthorized,21,156,47
+4946,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,25,146,96
+4948,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,22,156,47
+4949,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/,200,OK,28,147,271
+4950,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,22,147,271
+4951,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,DELETE,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,401,Unauthorized,20,156,47
+4952,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,27,156,69
+4953,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,29,162,205
+4954,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,29,156,47
+4955,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,25,146,96
+4957,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,61,146,69
+4958,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/,200,OK,20,147,271
+4960,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,19,147,271
+4961,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,23,156,47
+4962,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,DELETE,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,401,Unauthorized,21,156,47
+4963,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,19,162,205
+4964,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,20,156,47
+4965,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,26,156,69
+4966,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/,200,OK,23,147,271
+4967,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,32,146,96
+4969,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/bookTitle77,401,Unauthorized,67,156,47
+4970,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,26,147,271
+4971,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,24,156,47
+4972,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,200,OK,69,147,229
+4973,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,DELETE,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,401,Unauthorized,25,156,47
+4975,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,30,146,69
+4976,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4978,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,28,162,205
+4979,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,76,162,205
+4980,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,24,156,69
+4981,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/,200,OK,21,147,271
+4982,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,20,156,47
+4983,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/bookTitle77,401,Unauthorized,22,156,47
+4984,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,22,147,271
+4985,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,DELETE,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,401,Unauthorized,22,156,47
+4986,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,24,156,47
+4987,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,22,156,69
+4988,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,28,162,205
+4989,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,26,162,205
+4990,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,29,146,69
+4992,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,200,OK,34,147,229
+4993,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/,200,OK,19,147,271
+4995,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,18,156,47
+4996,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/bookTitle77,401,Unauthorized,21,156,47
+4997,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,21,147,271
+4998,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,DELETE,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,401,Unauthorized,20,156,47
+4999,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,21,156,47
+5000,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,23,156,69
+5001,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/,200,OK,21,147,271
+5002,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,23,162,205
+5003,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,25,162,205
+5004,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/bookTitle77,401,Unauthorized,23,156,47
+5005,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,22,147,271
+5006,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,30,156,47
+5007,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,DELETE,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,401,Unauthorized,25,156,47
+5008,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/John.Doe,404,Not Found,61,153,48
+5009,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,66,153,48
+5010,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1,200,OK,68,148,5548
+5012,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/,200,OK,24,147,271
+5013,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,31,156,47
+5014,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/_debug,200,OK,73,148,7900
+5015,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,20,147,271
+5017,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,DELETE,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,401,Unauthorized,26,156,47
+5018,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1,200,OK,21,148,5548
+5020,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/,200,OK,27,147,271
+5021,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,59,156,69
+5022,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,116,146,74
+5023,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/_debug,200,OK,28,148,7900
+5026,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,200,OK,81,146,18
+5027,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,60,162,205
+5029,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,63,162,205
+5030,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/bookTitle77,401,Unauthorized,62,156,47
+5031,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,66,156,47
+5032,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,50,156,47
+5033,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,50,147,271
+5034,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1,200,OK,31,148,5548
+5035,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,DELETE,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,401,Unauthorized,41,156,47
+5037,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/,200,OK,33,147,271
+5038,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,27,146,96
+5039,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,22,162,205
+5040,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,106,146,92
+5041,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,29,156,69
+5042,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,23,162,205
+5044,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/John.Doe,404,Not Found,76,153,48
+5045,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/_debug,200,OK,30,147,147
+5046,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,200,OK,25,147,229
+5047,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/bookTitle77,401,Unauthorized,20,156,47
+5050,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,20,156,47
+5051,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,DELETE,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,401,Unauthorized,23,156,47
+5052,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1,200,OK,23,148,5548
+5054,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,22,146,69
+5056,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,28,162,205
+5057,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/John.Doe,404,Not Found,27,153,48
+5058,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/_debug,200,OK,30,148,7900
+5060,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,25,156,47
+5061,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,200,OK,32,147,229
+5063,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/password,401,Unauthorized,104,156,47
+5064,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/bookTitle77,401,Unauthorized,138,156,47
+5066,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/_debug,200,OK,104,147,509
+5065,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,137,147,228
+5067,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/John.Doe,404,Not Found,111,153,48
+5068,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/createdb,200,OK,355,146,36
+5071,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1,200,OK,125,147,316
+5072,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,113,162,205
+5074,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,151,156,47
+5075,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,141,162,205
+5076,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,117,146,69
+5077,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,150,147,271
+5079,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/,200,OK,141,147,271
+5080,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,140,156,69
+5081,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,24,162,205
+5082,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/bookTitle77,401,Unauthorized,25,156,47
+5083,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/John.Doe,404,Not Found,26,153,48
+5084,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,27,162,205
+5085,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/,200,OK,31,147,271
+5086,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,31,156,69
+5087,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,40,153,48
+5088,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,35,156,47
+5089,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,30,146,69
+5090,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,35,147,271
+5092,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,200,OK,142,147,229
+5093,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/_debug,200,OK,36,147,509
+5096,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,39,146,96
+5098,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,20,162,205
+5099,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,26,162,205
+5100,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,21,147,271
+5101,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,PUT,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1/email,401,Unauthorized,24,156,69
+5102,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/bookTitle77,401,Unauthorized,33,156,47
+5103,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,401,Unauthorized,25,156,47
+5104,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,200,OK,22,147,229
+5106,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,20,162,205
+5107,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/_debug,200,OK,26,148,7900
+5108,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,30,146,69
+5111,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,20,162,205
+5112,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,24,146,96
+5114,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/bookTitle77,401,Unauthorized,19,156,47
+5115,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,19,162,205
+5116,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,23,162,205
+5117,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,23,146,96
+5119,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,27,162,205
+5120,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/bookTitle77,401,Unauthorized,112,156,47
+5121,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/_debug,200,OK,120,147,268
+5122,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/createdb,200,OK,190,146,36
+5123,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/John.Doe,404,Not Found,165,153,48
+5124,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1,200,OK,185,147,316
+5125,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,120,146,92
+5127,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,154,153,48
+5129,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,200,OK,126,147,229
+5131,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,93,146,74
+5133,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,84,162,205
+5134,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1/bookTitle77,401,Unauthorized,21,156,47
+5135,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/John.Doe,404,Not Found,23,153,48
+5136,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/_debug,200,OK,36,147,509
+5137,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/login,200,OK,36,146,96
+5140,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,200,OK,36,147,229
+5142,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,39,153,48
+5143,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1,200,OK,36,148,5548
+5145,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,200,OK,21,147,229
+5147,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,25,153,48
+5148,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/John.Doe,404,Not Found,80,153,48
+5149,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,44,153,48
+5150,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,117,146,92
+5151,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1,200,OK,74,147,100
+5153,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/John.Doe,404,Not Found,32,153,48
+5154,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,27,153,48
+5155,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/_debug,500,Internal Server Error,94,176,43858
+5157,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,POST,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/register,200,OK,48,146,69
+5158,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1,200,OK,45,147,316
+5159,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/createdb,200,OK,166,146,36
+5161,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,29,153,48
+5162,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/John.Doe,404,Not Found,29,153,48
+5164,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,500,Internal Server Error,118,176,43429
+5166,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/_debug,200,OK,47,147,509
+5168,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/John.Doe,404,Not Found,22,153,48
+5169,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1,200,OK,21,147,316
+5171,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/John.Doe,404,Not Found,19,153,48
+5172,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,80,153,48
+5173,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/createdb,200,OK,161,146,36
+5174,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1,200,OK,137,147,236
+5175,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books/v1,200,OK,143,147,228
+5176,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/_debug,200,OK,141,147,382
+5178,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,97,153,48
+5179,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:00 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1,200,OK,24,147,316
+5181,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:01 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,500,Internal Server Error,75,176,20052
+5183,Sun Oct 13 12:33:00 AEDT 2024,Sun Oct 13 12:33:01 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/createdb,200,OK,94,146,36
+5184,Sun Oct 13 12:33:01 AEDT 2024,Sun Oct 13 12:33:01 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,100,153,48
+5185,Sun Oct 13 12:33:01 AEDT 2024,Sun Oct 13 12:33:01 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/createdb,200,OK,100,146,36
+5186,Sun Oct 13 12:33:01 AEDT 2024,Sun Oct 13 12:33:01 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,21,153,48
+5187,Sun Oct 13 12:33:01 AEDT 2024,Sun Oct 13 12:33:01 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/createdb,200,OK,97,146,36
+5188,Sun Oct 13 12:33:01 AEDT 2024,Sun Oct 13 12:33:01 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/createdb,200,OK,433,146,36
+5189,Sun Oct 13 12:33:01 AEDT 2024,Sun Oct 13 12:33:01 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/createdb,200,OK,135,146,36
+5190,Sun Oct 13 12:33:01 AEDT 2024,Sun Oct 13 12:33:02 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/createdb,200,OK,380,146,36
+5191,Sun Oct 13 12:33:02 AEDT 2024,Sun Oct 13 12:33:02 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/createdb,200,OK,103,146,36
+5192,Sun Oct 13 12:33:02 AEDT 2024,Sun Oct 13 12:33:02 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/createdb,200,OK,417,146,36
+5193,Sun Oct 13 12:33:02 AEDT 2024,Sun Oct 13 12:33:02 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,20,147,271
+5194,Sun Oct 13 12:33:02 AEDT 2024,Sun Oct 13 12:33:02 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,19,162,205
+5195,Sun Oct 13 12:33:02 AEDT 2024,Sun Oct 13 12:33:02 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,25,162,205
+5196,Sun Oct 13 12:33:02 AEDT 2024,Sun Oct 13 12:33:02 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,21,153,48
+5197,Sun Oct 13 12:33:02 AEDT 2024,Sun Oct 13 12:33:02 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io,200,OK,45,147,271
+5198,Sun Oct 13 12:33:02 AEDT 2024,Sun Oct 13 12:33:02 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/books,404,Not Found,24,162,205
+5199,Sun Oct 13 12:33:02 AEDT 2024,Sun Oct 13 12:33:03 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users,404,Not Found,174,162,205
+5200,Sun Oct 13 12:33:03 AEDT 2024,Sun Oct 13 12:33:03 AEDT 2024,GET,https://devops-test-app.gentlemoss-81053a1b.australiaeast.azurecontainerapps.io/users/v1/name1,404,Not Found,22,153,48
