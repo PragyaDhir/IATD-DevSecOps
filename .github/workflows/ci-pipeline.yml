@@ -175,7 +175,7 @@ jobs:
             
             echo "All security gates passed"
   build:
-     needs: [submit_results]
+    needs: [submit_results]
     if: true
     permissions:
       id-token: write
